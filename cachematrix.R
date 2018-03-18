@@ -1,6 +1,6 @@
 ##Matrix inversion is usually a costly computation and there may be some benefit to caching the 
 ##inverse of a matrix rather than compute it repeatedly.This assignment is to write a pair of 
-##functions that cache the inverse of a matrix.
+##functions that cache the inverse of a matrix..
 
 ##makeCacheMatrix: This function create a special "matrix" object that can cache its inverse.
 ##In this part, we need to make matrix assign to variable x, and initialize inv to NULLs.
